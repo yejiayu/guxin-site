@@ -1,0 +1,12 @@
+@import "normalize";
+@import "index";
+
+html, body {
+  height: 100%;
+}
+.container {
+  padding-bottom: 220px;
+  width: 100%;
+  background: url(/assets/images/main-bg.jpg);
+  background-size: 100% 100%;
+}
