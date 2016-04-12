@@ -1,10 +1,12 @@
 @import "normalize";
 @import "index";
+@import "list";
 
 html, body {
   height: 100%;
 }
 .container {
+  padding-top: 95px;
   padding-bottom: 220px;
   width: 100%;
   background: url(/assets/images/main-bg.jpg);
